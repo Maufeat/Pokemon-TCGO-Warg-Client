@@ -1,0 +1,16 @@
+{
+  "name": "wargclient",
+  "version": "1.0.0",
+  "description": "A Pokemon TCG Online Client",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn src/app.ts --trace-warnings --file#"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.31"
+  }
+}
