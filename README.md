@@ -4,7 +4,7 @@ This is a simple TCP client to connect to the Pokemon TCGO server and check code
 
 ## Installation
 
-Just install node and install node, `typescript` and `@types/node` and run with the `dev` script or `node src/app.js`
+Just install node, `typescript` and `@types/node` and run with the `dev` script or `node src/app.js`
 
 ## Problem
 
